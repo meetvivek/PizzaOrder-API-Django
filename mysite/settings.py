@@ -29,7 +29,8 @@ INSTALLED_APPS = [
 
 MY_APPS = [
     'authentication.apps.AuthenticationConfig',
-    'orders.apps.OrdersConfig'
+    'orders.apps.OrdersConfig',
+    'rest_framework'
 ]
 
 INSTALLED_APPS += MY_APPS
