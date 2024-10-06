@@ -33,7 +33,6 @@ MY_APPS = [
     'orders.apps.OrdersConfig',
     'rest_framework',
     'djoser',
-    'drf_yasg',
 ]
 
 INSTALLED_APPS += MY_APPS
